@@ -5,7 +5,7 @@
 - 👯 Currently working in BeiJing, China
 - 🤔 I love Reading, photography,fitness
 - 📫 How to reach me: levinliwei@gmail.com
-- ⚡ Fun fact: LOL, Movie，Basketball
+- ⚡ Fun fact: Movie，Basketball ，Shooting Game
 
 ----------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levinliwei)](https://github.com/levinliwei/github-readme-stats)
