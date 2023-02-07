@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**levinliwei/levinliwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ![decription](https://img.shields.io/badge/Pay-%E4%BB%81%E8%81%9A%E6%B1%87%E9%80%9A-blue)
+- 🌱 I’m currently learning Flutter
+- 👯 Currently working in BeiJing, China
+- 🤔 I love Reading, photography,fitness
+- 📫 How to reach me: levinliwei@gmail.com
+- ⚡ Fun fact: LOL, Movie，Basketball
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levinliwei)](https://github.com/levinliwei/github-readme-stats)
+
+----------------------------------------------------------
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=levinliwei&show_icons=true&theme=tokyonight)
+
+
+
+
+
